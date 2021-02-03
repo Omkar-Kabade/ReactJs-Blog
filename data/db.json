@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "title": "Health Tips ",
+      "genre": "Health Is Wealth",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "author": "Omita",
+      "image": "C:\\fakepath\\pexels-pixabay-66238.jpg",
+      "id": 1
+    },
+    {
+      "title": "Money Tips",
+      "genre": "Finance",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "author": "Omkar",
+      "image": "C:\\fakepath\\pexels-christina-morillo-1181341.jpg",
+      "id": 2
+    },
+    {
+      "title": "Fitness Mantra",
+      "genre": "Fitness",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "author": "Namrata",
+      "image": "C:\\fakepath\\pexels-lukas-590016.jpg",
+      "id": 3
+    },
+    {
+      "title": "Personal Development",
+      "genre": "Lifestyle",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "author": "Radhi",
+      "image": "C:\\fakepath\\pexels-pixabay-66238.jpg",
+      "id": 4
+    }
+  ]
+}
